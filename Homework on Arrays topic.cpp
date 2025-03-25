@@ -14,7 +14,7 @@
 //    int countp = 0;
 //    int pol[n] = { 1, 2, 3, 4, 5 }; 
 //
-//    cout << "Ёлементы с четными индексами: ";
+//    cout << "Elements with odd indexes: ";
 //    for (int i = 0; i < n; ++i) 
 //        if (i % 2 == 0) {
 //            cout << pol[i] << " ";
