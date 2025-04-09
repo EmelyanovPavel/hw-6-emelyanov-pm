@@ -4,7 +4,7 @@
 
 //Exercise 1.
 //19)
-void task1()
+void task1_19()
 {
 
     const int n = 5; 
@@ -21,7 +21,7 @@ void task1()
  
 //Exercise 2.
 //19)
-void task2()
+void task2_19()
 {
     unsigned int count = 0;
     int arr[] = { 1, 2, 4, 3, 5, 25, 4, 4, 1 };
@@ -39,7 +39,7 @@ void task2()
 //Exercise 3. 
 //19)
 
-void task3()
+void task3_19()
 {
     int n, m;
     int mxc = 0;
@@ -82,7 +82,7 @@ void task3()
  
 //Exercise 4.
 //19) 
-void task4()
+void task4_19()
 {
 
     int ralls;
@@ -127,10 +127,10 @@ void task4()
 
 int main()
 {
-    task1();
-    task2();
-    task3();
-    task4();
+    task1_19();
+    task2_19();
+    task3_19();
+    task4_19();
  
     return 0;
 }
